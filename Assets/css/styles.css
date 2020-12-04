@@ -30,7 +30,7 @@ main {
 
 .block-header {
   /* Typography */
-  color: #4aaaa5;
+  color: #263bf5;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -45,12 +45,12 @@ main {
   color: #fff;
 
   /* Visual */
-  background: #4aaaa5;
+  background: #9680e7;
 }
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+  color: #267af7;
 }
 
 .navbar {
@@ -61,7 +61,7 @@ main {
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #4aaaa5;
+    background-color: #0d8df5;
   }
 }
 /* END NAV */
@@ -100,7 +100,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: #666;
+  background-color: rgb(128, 119, 250);
 }
 
 .text-muted-footer {
@@ -108,7 +108,7 @@ main {
   margin-top: 15px;
 
   /* Typography */
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .two-toned-footer-color {
@@ -117,7 +117,7 @@ main {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #561ef1;
 }
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
@@ -173,7 +173,7 @@ main {
   color: #fff;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #5a38f5;
   border: 0;
 }
 
